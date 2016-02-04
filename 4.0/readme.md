@@ -1,0 +1,4 @@
+- Button go down, tool tip
+- Licence plate number/image/driver/top view - same size: SAME ROW
+- Chasis image to occupy most of the space
+- Mock(Button) for SUPER and COM Port for others.
